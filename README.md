@@ -1,3 +1,7 @@
+## Deploy
+Deployed in https://netflix-clone-2022.netlify.app/
+
+
 ## Inicializacion de proyecto
 ' npx create-react-app 2022netflix --template redux'
 
